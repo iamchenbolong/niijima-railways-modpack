@@ -1278,6 +1278,18 @@
       "fileSize": 107532
     },
     {
+      "path": "mods/[机械动力：甜食] create-confectionery1.20.1_v1.1.0.jar",
+      "hashes": {
+        "sha1": "75b39587e643a2af31e5d0db822a94aaa5d13f08",
+        "sha512": "f493bd3c83b95303ede048d1bb259196e5491f00867b50a5e06bb3620868cf58dc232b13c6abf9ceb5e386450a761a40127fa1f2df0e82718058dcf5fd7991e7"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4835/793/create-confectionery1.20.1_v1.1.0.jar",
+        "https://edge.forgecdn.net/files/4835/793/create-confectionery1.20.1_v1.1.0.jar"
+      ],
+      "fileSize": 2123089
+    },
+    {
       "path": "shaderpacks/Sildur's Vibrant Shaders v1.541 Extreme-VL.zip",
       "hashes": {
         "sha1": "7f190891b1417165c104e060505049ef7600e6ea",
