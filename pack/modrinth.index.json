@@ -1026,6 +1026,19 @@
       "fileSize": 150844
     },
     {
+      "path": "mods/[机械动力：咖啡馆] createcafe-1.2.4-1.20.1.jar",
+      "hashes": {
+        "sha1": "d7f48c95833c8d83f2d9f8240819f2e9ee8dc3c0",
+        "sha512": "80b9e644493b30baa23ada604fcb08fc599eea2f55a9ae18a1b145f864087237d1231ce61b02969b23998b9cb94d88f5b3f5555083fddb3685637e5e7e98f2a1"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5237/90/createcafe-1.2.4-1.20.1.jar",
+        "https://edge.forgecdn.net/files/5237/90/createcafe-1.2.4-1.20.1.jar",
+        "https://cdn.modrinth.com/data/O3hKBfwC/versions/Zj19wiTH/createcafe-1.2.4-1.20.1.jar"
+      ],
+      "fileSize": 385855
+    },
+    {
       "path": "mods/[机械动力：自动扶梯] escalated-1.1.0-create.0.5.1.j-mc.1.20.1-forge.jar",
       "hashes": {
         "sha1": "4a835f41c169ad43cd8dab91bac9da9f346e78c6",
