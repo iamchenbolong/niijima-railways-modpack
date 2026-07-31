@@ -898,6 +898,19 @@
       "fileSize": 78667
     },
     {
+      "path": "mods/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+      "hashes": {
+        "sha1": "ba0aeb23f3d90ef45a91b190756784212815c1e3",
+        "sha512": "05f43b82f609bb93a93f2a0ffc578e71ac816f4913f7337edaa8e848c0fbcffe3893565a6de2fcb89246a1843b9fa8b12ade155d97e9ba7a22507121777fe6d6"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5164/617/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+        "https://edge.forgecdn.net/files/5164/617/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+        "https://cdn.modrinth.com/data/myL7fuqp/versions/hDO0z6X4/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar"
+      ],
+      "fileSize": 38494
+    },
+    {
       "path": "mods/Steam_Rails-1.6.7+forge-mc1.20.1.jar",
       "hashes": {
         "sha1": "7449e9cbaae6a23a31127a3cf0886899c28639dc",
@@ -1285,6 +1298,19 @@
         "https://cdn.modrinth.com/data/SzzJttH8/versions/yOVIzIJR/tacz-1.20.1-1.1.8-hotfix.jar"
       ],
       "fileSize": 57465167
+    },
+    {
+      "path": "mods/[清洁女仆] sweeper_maid-1.1.2.jar",
+      "hashes": {
+        "sha1": "df9cb0de439ff3c84d1fa0116446294f99e8143c",
+        "sha512": "dc1fd83e429d8ed0dcc840c92719c85b150cfc220070453370b8af4a53f5fbdf17bf413c4bd31db818efde7f31df2ac485c0a05a72ccf977b3095779f829f4ad"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7867/270/sweeper_maid-1.1.2.jar",
+        "https://edge.forgecdn.net/files/7867/270/sweeper_maid-1.1.2.jar",
+        "https://cdn.modrinth.com/data/XBjSDj8t/versions/4Fx97QFQ/sweeper_maid-1.1.2.jar"
+      ],
+      "fileSize": 955805
     },
     {
       "path": "mods/[独特风味] peculiars-1.20.1-5.0.0.jar",
