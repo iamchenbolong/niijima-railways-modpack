@@ -84,6 +84,19 @@
       "fileSize": 1165189
     },
     {
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "hashes": {
+        "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+        "sha512": "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar",
+        "https://edge.forgecdn.net/files/5486/70/botarium-forge-1.20.1-2.3.4.jar",
+        "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar"
+      ],
+      "fileSize": 157633
+    },
+    {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "hashes": {
         "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
@@ -1000,6 +1013,19 @@
       "fileSize": 23411995
     },
     {
+      "path": "mods/[RS 无限范围增幅卡] RSInfinityBooster-1.20.1-1.0+41.jar",
+      "hashes": {
+        "sha1": "fa5d1ae8a115998067e6805c9748cbce64ab960a",
+        "sha512": "17f76c74072c04caa37ab0ef0daace46d858166b7de8ef4030092e2becb65e63ceba3b6aaefb2e00c35e863a3a6adb2f923edfa4f5104c3c7dd250f02e07df04"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5814/102/RSInfinityBooster-1.20.1-1.0%2b41.jar",
+        "https://edge.forgecdn.net/files/5814/102/RSInfinityBooster-1.20.1-1.0%2b41.jar",
+        "https://cdn.modrinth.com/data/Sjzdj2cy/versions/UkT7CCGr/RSInfinityBooster-1.20.1-1.0%2B41.jar"
+      ],
+      "fileSize": 33622
+    },
+    {
       "path": "mods/[悠然一派] atmospheric-1.20.1-6.1.1.jar",
       "hashes": {
         "sha1": "9a655ae0953d0205c10315560466779228c08b18",
@@ -1026,6 +1052,19 @@
       "fileSize": 150844
     },
     {
+      "path": "mods/[更多磁盘] ExtraDisks-1.20.1-3.0.3.jar",
+      "hashes": {
+        "sha1": "51f3fcd4f8e340bb3ee773f8bb50f42a1d58f248",
+        "sha512": "a5a211a44c83915e78df69924d32418d38499e507f28929a1944f76a73acbc497733e9b47c300b7d2a0e9b1c7457ce59d70a30eb67d5e22dfef76275cf591988"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6366/217/ExtraDisks-1.20.1-3.0.3.jar",
+        "https://edge.forgecdn.net/files/6366/217/ExtraDisks-1.20.1-3.0.3.jar",
+        "https://cdn.modrinth.com/data/Tlo2tahX/versions/bBzUlSat/ExtraDisks-1.20.1-3.0.3.jar"
+      ],
+      "fileSize": 240420
+    },
+    {
       "path": "mods/[机械动力：咖啡馆] createcafe-1.2.4-1.20.1.jar",
       "hashes": {
         "sha1": "d7f48c95833c8d83f2d9f8240819f2e9ee8dc3c0",
@@ -1037,6 +1076,19 @@
         "https://cdn.modrinth.com/data/O3hKBfwC/versions/Zj19wiTH/createcafe-1.2.4-1.20.1.jar"
       ],
       "fileSize": 385855
+    },
+    {
+      "path": "mods/[机械动力：电气时代] create-new-age-forge-1.20.1-1.1.2.jar",
+      "hashes": {
+        "sha1": "92fcbc49d41a4d1b2038b469154a4c36e3934e36",
+        "sha512": "d6fac731e9356b52f1e0c43105a92cd41c8633367f8b525d0573a7610bca2de5497391bd8a9483efe46cb61152a6efd7f7adfc33cfd9b16655d70f8406a89694"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5080/957/create-new-age-forge-1.20.1-1.1.2.jar",
+        "https://edge.forgecdn.net/files/5080/957/create-new-age-forge-1.20.1-1.1.2.jar",
+        "https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar"
+      ],
+      "fileSize": 663575
     },
     {
       "path": "mods/[机械动力：自动扶梯] escalated-1.1.0-create.0.5.1.j-mc.1.20.1-forge.jar",
@@ -1170,6 +1222,19 @@
         "https://cdn.modrinth.com/data/iErPoO30/versions/bBldWEUu/kuayue-1.20.1-1.20.1-1.0.2.jar"
       ],
       "fileSize": 14383650
+    },
+    {
+      "path": "mods/[通用终端] universalgrid-1.20.1-1.1.jar",
+      "hashes": {
+        "sha1": "68296d5aec31299bebfba7f8572409447b9a5fe7",
+        "sha512": "a70c721e06fc2a099f2045f3b9db335c1d749f068dcb582bbb0992d7f2f0fb4d793991d69d3177976dab40036eb969b610acfbb8d7cf4941392d7534d94fed2d"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4839/781/universalgrid-1.20.1-1.1.jar",
+        "https://edge.forgecdn.net/files/4839/781/universalgrid-1.20.1-1.1.jar",
+        "https://cdn.modrinth.com/data/kpMfA312/versions/jl1ouh7x/universalgrid-1.20.1-1.1.jar"
+      ],
+      "fileSize": 43879
     },
     {
       "path": "mods/[那不勒斯风味] neapolitan-1.20.1-5.1.0.jar",
@@ -1423,6 +1488,30 @@
         "https://edge.forgecdn.net/files/4835/793/create-confectionery1.20.1_v1.1.0.jar"
       ],
       "fileSize": 2123089
+    },
+    {
+      "path": "mods/[精致存储] refinedstorage-1.12.4.jar",
+      "hashes": {
+        "sha1": "ff9e83c81344d0bfe9e0bb53c6df00c7e0a39cf5",
+        "sha512": "c5567666f7337c2c260bd8de96fafd8ebeddd33b0df61b76cb70f7b3940dafb5f40c082b0d897677aa47264f06c800ee24890db9e02382e9c55039e9d1248ef6"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4844/585/refinedstorage-1.12.4.jar",
+        "https://edge.forgecdn.net/files/4844/585/refinedstorage-1.12.4.jar"
+      ],
+      "fileSize": 3300191
+    },
+    {
+      "path": "mods/[精致存储附属] refinedstorageaddons-0.10.0.jar",
+      "hashes": {
+        "sha1": "829c7270a3fad543e441a18b5b9f27fd30824086",
+        "sha512": "c915add6f24d0cf7b6bae6deaaaea4a247052cf92743f520e706dc133d44feded85100bab6b8cac0c35a67ed77d119b8c5668d901ad5df84bce658b20221595c"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/4626/171/refinedstorageaddons-0.10.0.jar",
+        "https://edge.forgecdn.net/files/4626/171/refinedstorageaddons-0.10.0.jar"
+      ],
+      "fileSize": 33771
     },
     {
       "path": "shaderpacks/Sildur's Vibrant Shaders v1.541 Extreme-VL.zip",
