@@ -97,6 +97,19 @@
       "fileSize": 157633
     },
     {
+      "path": "mods/butchery-5.2-forge-1.20.1.jar",
+      "hashes": {
+        "sha1": "183669e284fa3eda7d91cc23e36ba9c6f276b570",
+        "sha512": "8a84cc02703801234c3233f0ed0555e026254bd4965c4b3ec235c9bee28e606d43157b9f2ea487efda32fc35f1296a47f297fe4e0c27e48b68bacd414dbdfbc8"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8536/219/butchery-5.2-forge-1.20.1.jar",
+        "https://edge.forgecdn.net/files/8536/219/butchery-5.2-forge-1.20.1.jar",
+        "https://cdn.modrinth.com/data/6YfOmC9t/versions/cLCALXJ6/butchery-5.2-forge-1.20.1.jar"
+      ],
+      "fileSize": 16571825
+    },
+    {
       "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
       "hashes": {
         "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
@@ -1050,6 +1063,19 @@
       "fileSize": 33622
     },
     {
+      "path": "mods/[帕秋莉手册] Patchouli-1.20.1-85-FORGE.jar",
+      "hashes": {
+        "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+        "sha512": "15aedda4efcc553d5e3c83aa867b62554bc2fab298b43f55ed324e10507a3605f0ec2c59c01476e6d80b2a49275ef080142e43a6e663f9463b62f520960fc203"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7731/17/Patchouli-1.20.1-85-FORGE.jar",
+        "https://edge.forgecdn.net/files/7731/17/Patchouli-1.20.1-85-FORGE.jar",
+        "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar"
+      ],
+      "fileSize": 642732
+    },
+    {
       "path": "mods/[悠然一派] atmospheric-1.20.1-6.1.1.jar",
       "hashes": {
         "sha1": "9a655ae0953d0205c10315560466779228c08b18",
@@ -1442,6 +1468,18 @@
         "https://edge.forgecdn.net/files/6130/786/ftb-teams-forge-2001.3.1.jar"
       ],
       "fileSize": 248592
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
+      "hashes": {
+        "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+        "sha512": "e3ddb9b3688c5dc7e32befe5b7849447acf08e7f839c453e2e7034dd01e194118a6a496205aa89dba797709fec0c06b8ea4680536ef6b33fb0c29a976c09d576"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar",
+        "https://edge.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar"
+      ],
+      "fileSize": 1038209
     },
     {
       "path": "mods/gravestone-forge-1.20.1-1.0.35.jar",
