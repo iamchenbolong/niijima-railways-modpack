@@ -1000,6 +1000,19 @@
       "fileSize": 5213524
     },
     {
+      "path": "mods/[拴绳增强] MoreLeads-forge-1.20.1-1.3.0.jar",
+      "hashes": {
+        "sha1": "a0025cfee6c65363687fb131ddc530ea42c59d76",
+        "sha512": "3a17e599c98baf80da8fdc9eaac6e33b70650ac5a5e39ebac507695dd8a4c9586fe69ce1c63aac58ecf62468f35913eec68abb7e55a703ea9e3388524e1341db"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6469/385/MoreLeads-forge-1.20.1-1.3.0.jar",
+        "https://edge.forgecdn.net/files/6469/385/MoreLeads-forge-1.20.1-1.3.0.jar",
+        "https://cdn.modrinth.com/data/htaRjgnu/versions/Se0qQtZw/MoreLeads-forge-1.20.1-1.3.0.jar"
+      ],
+      "fileSize": 150844
+    },
+    {
       "path": "mods/[机械动力：自动扶梯] escalated-1.1.0-create.0.5.1.j-mc.1.20.1-forge.jar",
       "hashes": {
         "sha1": "4a835f41c169ad43cd8dab91bac9da9f346e78c6",
