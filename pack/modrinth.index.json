@@ -1602,6 +1602,18 @@
       "fileSize": 84453
     },
     {
+      "path": "mods/[复演结／コピーの終結] duplicationless-1.20.1-1.2.0.jar",
+      "hashes": {
+        "sha1": "2314918e12226f92f7c23df2419193e7e35a8c56",
+        "sha512": "ae89fbb3139aa2b64e778bb524a96adea8bfad426b2075efdec3ee1e31469809c07ba8de599807344f5259858970a52327170ac91d35ab4bf58907d966c7a151"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8122/781/duplicationless-1.20.1-1.2.0.jar",
+        "https://edge.forgecdn.net/files/8122/781/duplicationless-1.20.1-1.2.0.jar"
+      ],
+      "fileSize": 988325
+    },
+    {
       "path": "mods/[机械动力：甜食] create-confectionery1.20.1_v1.1.0.jar",
       "hashes": {
         "sha1": "75b39587e643a2af31e5d0db822a94aaa5d13f08",
@@ -1636,6 +1648,18 @@
         "https://edge.forgecdn.net/files/4626/171/refinedstorageaddons-0.10.0.jar"
       ],
       "fileSize": 33771
+    },
+    {
+      "path": "mods/[远物停载：土豆版] doespotatotick-1.20.1-5.6.3.jar",
+      "hashes": {
+        "sha1": "74fe288c2239730a33d9b799c1c76888cbfa3b1e",
+        "sha512": "b2fab480ae078efc573c64c801aee4ea727c00ed45013109af6a3a5b88576a77dbe49cfb59030afe78b6c5393c77754b4f3a9035f5a523bc94baa0fa017dbad5"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7953/843/doespotatotick-1.20.1-5.6.3.jar",
+        "https://edge.forgecdn.net/files/7953/843/doespotatotick-1.20.1-5.6.3.jar"
+      ],
+      "fileSize": 46932
     },
     {
       "path": "shaderpacks/Sildur's Vibrant Shaders v1.541 Extreme-VL.zip",
