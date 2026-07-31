@@ -97,6 +97,17 @@
       "fileSize": 157633
     },
     {
+      "path": "mods/caelus-forge-3.2.0+1.20.1.jar",
+      "hashes": {
+        "sha1": "d14e8ee892d4d8764f523ad0e89bdcfc061fb007",
+        "sha512": "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
+      ],
+      "fileSize": 40125
+    },
+    {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "hashes": {
         "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
@@ -312,6 +323,19 @@
         "https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar"
       ],
       "fileSize": 223428
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "hashes": {
+        "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+        "sha512": "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar",
+        "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1%2b1.20.1.jar",
+        "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+      ],
+      "fileSize": 398066
     },
     {
       "path": "mods/design_decor-0.4.0b-1.20.1.jar",
@@ -1091,6 +1115,19 @@
       "fileSize": 663575
     },
     {
+      "path": "mods/[机械动力：矿石开掘] createoreexcavation-1.20-1.5.3.jar",
+      "hashes": {
+        "sha1": "e803919c383cf27c9fb90843594745d97ceff7ed",
+        "sha512": "cc7e644861252a0f5c2b24c844c0312f09a189425def8325ed2d51154b6c2b947d7c49d89bb9f3ff01f92a95407023d1bd0c47753b7e56e73a3334c5678f8789"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5848/320/createoreexcavation-1.20-1.5.3.jar",
+        "https://edge.forgecdn.net/files/5848/320/createoreexcavation-1.20-1.5.3.jar",
+        "https://cdn.modrinth.com/data/ResbpANg/versions/eJi1oefO/createoreexcavation-1.20-1.5.3.jar"
+      ],
+      "fileSize": 424453
+    },
+    {
       "path": "mods/[机械动力：自动扶梯] escalated-1.1.0-create.0.5.1.j-mc.1.20.1-forge.jar",
       "hashes": {
         "sha1": "4a835f41c169ad43cd8dab91bac9da9f346e78c6",
@@ -1248,6 +1285,19 @@
         "https://cdn.modrinth.com/data/InYMuiQt/versions/AC9UEwPQ/neapolitan-1.20.1-5.1.0.jar"
       ],
       "fileSize": 4797150
+    },
+    {
+      "path": "mods/[鞘翅插槽 ／ 鞘翅槽位] elytraslot-forge-6.4.4+1.20.1.jar",
+      "hashes": {
+        "sha1": "f11443ef3371fa790eb33cba1a517638a3afcb07",
+        "sha512": "0fc4adb7e3b7469eb925ebde8e9364524595187f9b15791ac6ff009d07d44d562b17c58d6e3b0a40fe3c40fdbd57b64343a8fe942d4b6c7022aa9cd34f7a8cef"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/5778/734/elytraslot-forge-6.4.4%2b1.20.1.jar",
+        "https://edge.forgecdn.net/files/5778/734/elytraslot-forge-6.4.4%2b1.20.1.jar",
+        "https://cdn.modrinth.com/data/mSQF1NpT/versions/k6lA080t/elytraslot-forge-6.4.4%2B1.20.1.jar"
+      ],
+      "fileSize": 100660
     },
     {
       "path": "mods/1.20.1-maid_storage_manager-1.13.14.jar",
