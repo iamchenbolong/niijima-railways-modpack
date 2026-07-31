@@ -1128,6 +1128,17 @@
       "fileSize": 240420
     },
     {
+      "path": "mods/[机械动力：创意传动] create_connected-0.9.4-mc1.20.1-all.jar",
+      "hashes": {
+        "sha1": "e83efc273a3165acffc7a2829bf5fe5650abc37f",
+        "sha512": "267942c1c36fe4e40e1e5d54e98f03a476287009a62b30fdb7d2347106cc654244bb7ab5d66fedc702cc01988596e8c289229cddba58e8901225083cece8787e"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar"
+      ],
+      "fileSize": 6254805
+    },
+    {
       "path": "mods/[机械动力：咖啡馆] createcafe-1.2.4-1.20.1.jar",
       "hashes": {
         "sha1": "d7f48c95833c8d83f2d9f8240819f2e9ee8dc3c0",
@@ -1577,6 +1588,18 @@
         "https://edge.forgecdn.net/files/6290/448/TerraBlender-forge-1.20.1-3.0.1.10.jar"
       ],
       "fileSize": 107532
+    },
+    {
+      "path": "mods/trade-cycling-forge-1.20.1-1.0.18.jar",
+      "hashes": {
+        "sha1": "fbe3dfba11bd9e1c73b673f252c7d4f5cececa06",
+        "sha512": "f7a8f482851b4b2ea5c2f9ceae58bebcb40989a6d7ee054ec9664ea4b5767f82989e32d956a7da379b52ccaf3a191b8f8cbd25b3f68288abc5d3a6f1f7100d29"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6497/870/trade-cycling-forge-1.20.1-1.0.18.jar",
+        "https://edge.forgecdn.net/files/6497/870/trade-cycling-forge-1.20.1-1.0.18.jar"
+      ],
+      "fileSize": 84453
     },
     {
       "path": "mods/[机械动力：甜食] create-confectionery1.20.1_v1.1.0.jar",
