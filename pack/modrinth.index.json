@@ -71,6 +71,19 @@
       "fileSize": 196447
     },
     {
+      "path": "mods/blueprint-1.20.1-7.1.4.jar",
+      "hashes": {
+        "sha1": "10ee193ad755b03eceb0791a6f5257755feebcfe",
+        "sha512": "54e72a95caea98ddc01270fd765a05b82809dce760c5d9b8bdcf2c5c0ed9f4ef64e701fd70fc9146be2f030c085b29b21843ecd592beea4f331bdcf05545178b"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar",
+        "https://edge.forgecdn.net/files/8048/579/blueprint-1.20.1-7.1.4.jar",
+        "https://cdn.modrinth.com/data/VsM5EDoI/versions/AiaPEN6q/blueprint-1.20.1-7.1.4.jar"
+      ],
+      "fileSize": 1165189
+    },
+    {
       "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
       "hashes": {
         "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
@@ -972,6 +985,19 @@
         "https://cdn.modrinth.com/data/lfVtagkm/versions/3geNR8Br/yuushya-1.20.1-forge-2.2.3.jar"
       ],
       "fileSize": 23411995
+    },
+    {
+      "path": "mods/[悠然一派] atmospheric-1.20.1-6.1.1.jar",
+      "hashes": {
+        "sha1": "9a655ae0953d0205c10315560466779228c08b18",
+        "sha512": "ea74aaf7bbabc0745e31a01570db5c94f59004d8254641bb90cd599f639c354722108481663a479dd8d024581ca9cb890ab024ef8143e082c0711c2b6fa538fc"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/6393/127/atmospheric-1.20.1-6.1.1.jar",
+        "https://edge.forgecdn.net/files/6393/127/atmospheric-1.20.1-6.1.1.jar",
+        "https://cdn.modrinth.com/data/U9sJOFmJ/versions/B9fN8ZSq/atmospheric-1.20.1-6.1.1.jar"
+      ],
+      "fileSize": 5213524
     },
     {
       "path": "mods/[机械动力：自动扶梯] escalated-1.1.0-create.0.5.1.j-mc.1.20.1-forge.jar",
