@@ -3,17 +3,36 @@
 	#If 0, disable item sweeping. If > 0, cool down (in seconds) between two item sweeping.
 	#Range: 0 ~ 360000
 	ITEM_SWEEP_INTERVAL = 60
+	#Item overload in a chunk. If exceeded, a warning message will be sent.
+	#Range: 1 ~ 6400000
+	ITEM_OVERLOAD_THRESHOLD = 640
+	#Message to be sent when item overload threshold is exceeded. "$1" stands for chunk X position, "$2" stands for chunk Z position, and "$3" stands for item count.
+	OVERLOAD_MESSAGE = "[Ashbill狂喜扫地机]: 这个坐标($1, $2)的掉落物太多了，有$3个！快快检查！"
 	#Other entities of types will be killed when cleaning, e.g. arrows. You can also kill mobs or even players by setting this.
 	EXTRA_ENTITY_TYPES = ["minecraft:arrow", "minecraft:spectral_arrow", "minecraft:zombie", "minecraft:skeleton", "minecraft:creeper", "minecraft:spider", "minecraft:cave_spider", "minecraft:enderman", "minecraft:witch", "minecraft:ghast", "minecraft:zombified_piglin", "minecraft:blaze", "minecraft:magma_cube", "minecraft:wither_skeleton", "minecraft:hoglin", "minecraft:zoglin", "minecraft:piglin_brute", "minecraft:strider", "minecraft:bat", "minecraft:phantom"]
+	#Items in this list will never be cleaned and will be kept as item entity until it disappear.
+	ITEM_WHITELIST = ["minecraft:nether_star"]
+	#Items in this list will be cleaned but not added to the dustbin.
+	ITEM_BLACKLIST = ["minecraft:cobblestone", "minecraft:sand","minecraft:stone","minecraft:granite","minecraft:diorite","minecraft:andesite","minecraft:grass_block","minecraft:dirts"]
 	#What message will be sent to players when there's 15s, 30s and 60s left to sweep. "$1" stands for the remaining time (in seconds).
 	MESSAGE_BEFORE_SWEEP_15_30_60 = ""
 	#What message will be sent to players when there's 1s~10s left to sweep. "$1" stands for the remaining time (in seconds).
-	MESSAGE_BEFORE_SWEEP_1_10 = "[Ashbill狂喜扫地机]:将会在 $1 秒后清理垃圾"
-	#What message will be sent to players after a sweep. "$1" stands for the number of killed dropped items, and "$2" stands for the number of killed entities.
-	MESSAGE_AFTER_SWEEP = "[Ashbill狂喜扫地机]:清理了 $1 给掉落物和 $2 个实体！"
+	MESSAGE_BEFORE_SWEEP_1_10 = "[Ashbill狂喜扫地机]: 还有$1秒就要清理掉落物了！"
+	#What message will be sent to players after a sweep. "$1" stands for the number of killed dropped items, "$2" stands for the number of killed entities, and "$3" stands for the number of blacklisted items.
+	MESSAGE_AFTER_SWEEP = "[Ashbill狂喜扫地机]: 本次共清理$1个掉落物和$2个实体"
+	#What message will be sent to players when open a wrong dustbin.
+	MESSAGE_WRONG_DUSTBIN = "[Ashbill狂喜扫地机]: 错误的CR200J编号！"
+	#Name of dustbins.
+	DUSTBIN_NAME = "CR200J "
+	#Count of dustbins
+	#Range: 1 ~ 64
+	DUSTBIN_COUNT = 8
 	#What chat message will be sent to players after a sweep. Command will be appended to the end of the chat message.
-	CHAT_MESSAGE_AFTER_SWEEP = "[Ashbill狂喜扫地机]:被误删了？输入以下命令找回"
+	CHAT_MESSAGE_AFTER_SWEEP = "[Ashbill狂喜扫地机]: 有掉落物被清理了?打开垃圾桶查看："
 	#Permission level of a player to open the dustbin.
 	#Range: 0 ~ 4
 	PERMISSION_LEVEL_DUSTBIN = 0
+	#Permission level of a player to clean immediately.
+	#Range: 0 ~ 4
+	PERMISSION_LEVEL_CLEAN = 1
 
