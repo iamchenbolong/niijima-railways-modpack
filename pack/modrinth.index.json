@@ -540,6 +540,19 @@
       "fileSize": 2191008
     },
     {
+      "path": "mods/kasuga_lib-1.20.1-create-1.20.1-0.22.1-create.jar",
+      "hashes": {
+        "sha1": "9fc5ce6142c6b2cb54ccbfab63852a71ea73e84e",
+        "sha512": "96e81b7916a706058c2c2202e4d6f8e93a2e622c6eebb96afbeaec13c27682d6ac90271200e079b51af41b2dfec5a7ba484e0c8cbee76625b54e9ed33009d9d3"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7632/103/kasuga_lib-1.20.1-create-1.20.1-0.22.1-create.jar",
+        "https://edge.forgecdn.net/files/7632/103/kasuga_lib-1.20.1-create-1.20.1-0.22.1-create.jar",
+        "https://cdn.modrinth.com/data/3IXbPCpt/versions/n7Ug3rKP/kasuga_lib-1.20.1-create-1.20.1-0.22.1-create.jar"
+      ],
+      "fileSize": 11979721
+    },
+    {
       "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "hashes": {
         "sha1": "2019d821bed9071daabed43979433a5473ceee49",
@@ -1024,6 +1037,17 @@
         "https://cdn.modrinth.com/data/LyOBYG8Q/versions/VEzrohhm/escalated-1.1.0%2Bcreate.0.5.1.j-mc.1.20.1-forge.jar"
       ],
       "fileSize": 517257
+    },
+    {
+      "path": "mods/[跨越] kuayue-1.20.1-1.20.1-1.0.2.jar",
+      "hashes": {
+        "sha1": "e7ea6bec9b12e4824d1f98a85805d7fd66c3c5f5",
+        "sha512": "69c044deefd9fb63a65d3afc5c08dcb2129613d473e67b60bf25e0bdb0fb64ffbc329089ea8ca8ffb8bdbf8fb55db125b50ff4005add21695a54e30496a28cd3"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/iErPoO30/versions/bBldWEUu/kuayue-1.20.1-1.20.1-1.0.2.jar"
+      ],
+      "fileSize": 14383650
     },
     {
       "path": "mods/1.20.1-maid_storage_manager-1.13.14.jar",
