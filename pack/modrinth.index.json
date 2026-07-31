@@ -527,17 +527,17 @@
       "fileSize": 186824
     },
     {
-      "path": "mods/kaleidoscopecookery-1.1.0-forge+mc1.20.1.jar",
+      "path": "mods/kaleidoscopecookery-1.4.1-forge+mc1.20.1.jar",
       "hashes": {
-        "sha1": "d8b7432df3fc0d22c2dbbce8564994b8cb10f548",
-        "sha512": "d85c87f7fd5558610d975f149a1e14f8b9acca6d143c61cd3a2575370a322ff4082637a3161148236828f92e2e0d5823f6aacac4bd77596357a08997b490516a"
+        "sha1": "21dbbe0e97966b38bbfd5a45287d7f463dfe0436",
+        "sha512": "da3e83a7c579e87c93926e95775f7dd8997d68f0875955e28a1103bc0d4c050b431789b89ca35449daf026b9adc50624849a59351befe5ecd3f1495bb7769bd8"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7057/531/kaleidoscopecookery-1.1.0-forge%2bmc1.20.1.jar",
-        "https://edge.forgecdn.net/files/7057/531/kaleidoscopecookery-1.1.0-forge%2bmc1.20.1.jar",
-        "https://cdn.modrinth.com/data/v17FatAc/versions/2C7nEL7N/kaleidoscopecookery-1.1.0-forge%2Bmc1.20.1.jar"
+        "https://mediafilez.forgecdn.net/files/8266/769/kaleidoscopecookery-1.4.1-forge%2bmc1.20.1.jar",
+        "https://edge.forgecdn.net/files/8266/769/kaleidoscopecookery-1.4.1-forge%2bmc1.20.1.jar",
+        "https://cdn.modrinth.com/data/v17FatAc/versions/NXvhd04p/kaleidoscopecookery-1.4.1-forge%2Bmc1.20.1.jar"
       ],
-      "fileSize": 2191008
+      "fileSize": 5184400
     },
     {
       "path": "mods/kasuga_lib-1.20.1-create-1.20.1-0.22.1-create.jar",
@@ -1050,6 +1050,102 @@
         "https://cdn.modrinth.com/data/LyOBYG8Q/versions/VEzrohhm/escalated-1.1.0%2Bcreate.0.5.1.j-mc.1.20.1-forge.jar"
       ],
       "fileSize": 517257
+    },
+    {
+      "path": "mods/[森罗厨房：乐此不疲] Kaleidoscope Texture Expansion-Forge-1.20.1-2.12.0.jar",
+      "hashes": {
+        "sha1": "cfba48000681fd229a545348ea5313d449314cc4",
+        "sha512": "0311e80cdb479bc2c17e62278bd521d16a9435fca0f8081f9385474af74e113bce3e4c35f0ba0ea7d5cfcccbdbe1f8126643ddfc9b322cd90cf7b44d7bdf170f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/sOzI21iF/versions/9hPGtjcN/Kaleidoscope%20Texture%20Expansion-Forge-1.20.1-2.12.0.jar"
+      ],
+      "fileSize": 491331
+    },
+    {
+      "path": "mods/[森罗厨房：国味] kaleidoscope_chinesefood-1.1.7-1.20.1-fix-all.jar",
+      "hashes": {
+        "sha1": "150473e87af15576f0ba7a0d0a42953b65095b7e",
+        "sha512": "29f3dfc38053ee5fb2d0c2e40b7637ed36752ccd5226b00b450a8aaceb38dcdb5a0e6442974cc6cf5f9574a249f3089ee535e1e1b6765a098f6a46528ab8769f"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cuIIkdlx/versions/oO6gEHv2/kaleidoscope_chinesefood-1.1.7-1.20.1-fix-all.jar"
+      ],
+      "fileSize": 9238053
+    },
+    {
+      "path": "mods/[森罗物语：下界] kaleidoscope_nether-1.1.8-forge+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "ad07ae00e6a1d9270fda145fb72c3fb87fc80473",
+        "sha512": "2a0ba149dde449be105f7960a1e77f96354267d2bbf6c3407cf9d1a5ccfead160f5aa8ce5fb55fbbbbe499ab9f14f11b57b4d56ccaf452029f3b17a30a783a19"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8252/557/kaleidoscope_nether-1.1.8-forge%2bmc1.20.1.jar",
+        "https://edge.forgecdn.net/files/8252/557/kaleidoscope_nether-1.1.8-forge%2bmc1.20.1.jar",
+        "https://cdn.modrinth.com/data/O4YuhMsI/versions/kn43NNqm/kaleidoscope_nether-1.1.8-forge%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1022391
+    },
+    {
+      "path": "mods/[森罗物语：末地] kaleidoscope_end-1.0.14-forge+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "4998ecd33f97f11dbec4d256fa424502de553aa8",
+        "sha512": "1fd1042dfed9319dc862fa7e840fff9024989adb821614ec2972e54ab885598c825c48af738050d25c10a8b407e7ca33c7ec0d4307468d82274dfb8abc27313d"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/8GKUHBM6/versions/YS2tfy6v/kaleidoscope_end-1.0.14-forge%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1106181
+    },
+    {
+      "path": "mods/[森罗物语：次元酒窖] kaleidoscope_dim_wine-1.1.4-mc1.20.1-forge.jar",
+      "hashes": {
+        "sha1": "ffbea06fcea70eaa0014f9b3e93d39a5d4b2cec3",
+        "sha512": "ecab93f24c7494747475bb7b4719cedd97d66f9f46dd5818f9817aad2ab2ae42b6eda36bd98b1757dd437740ec0e974118e78a12f027df0a6be0d400ede17221"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8378/690/kaleidoscope_dim_wine-1.1.4-mc1.20.1-forge.jar",
+        "https://edge.forgecdn.net/files/8378/690/kaleidoscope_dim_wine-1.1.4-mc1.20.1-forge.jar",
+        "https://cdn.modrinth.com/data/BrGJp2pm/versions/ieey2LBy/kaleidoscope_dim_wine-1.1.4-mc1.20.1-forge.jar"
+      ],
+      "fileSize": 956625
+    },
+    {
+      "path": "mods/[森罗物语：酒馆] kaleidoscopetavern-1.2.0-forge+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "2e8f6370fb4acae9796705b6e84716c4a398b9c5",
+        "sha512": "485bcee9241e97856bb4bdf52d9752911a12c68d770048bbbb8400a8043ba02b312df94aa98d240abe03a94dc2ad0b627327a0029dd2dfa209d82cd1a6677865"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8350/841/kaleidoscopetavern-1.2.0-forge%2bmc1.20.1.jar",
+        "https://edge.forgecdn.net/files/8350/841/kaleidoscopetavern-1.2.0-forge%2bmc1.20.1.jar",
+        "https://cdn.modrinth.com/data/r9RZvhiJ/versions/mUnU2u9e/kaleidoscopetavern-1.2.0-forge%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 1749797
+    },
+    {
+      "path": "mods/[森罗酒馆：世界名酒] kaleidoscope_world_liquor-1.1.9-forge+mc1.20.1-all.jar",
+      "hashes": {
+        "sha1": "a7e331a7c7ff7b881b3658121d4b52f7c217665c",
+        "sha512": "e982d689921d581f07c55e174551fbb84d6576836a91862cdadeff99b0a06b34915cc6820ae775db5a42aa113ee423e30dcf78a44220860e1ff10ac13b46551a"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ePVLCraM/versions/NQUaELRy/kaleidoscope_world_liquor-1.1.9-forge%2Bmc1.20.1-all.jar"
+      ],
+      "fileSize": 7424749
+    },
+    {
+      "path": "mods/[森罗酒馆：血酒] kaleidoscope_bloodwine-1.1.0.jar",
+      "hashes": {
+        "sha1": "61a1acd6c28586371662a3d70e8752d0d636327c",
+        "sha512": "7c88a1db036ba54a18943eedce376f83f373c1d4a524cf9b6b7fea7c2495d7143b4bf066f8c82d7539278c7e72aa2036cb1c33323182e93c540e53b42730719f"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8381/214/kaleidoscope_bloodwine-1.1.0.jar",
+        "https://edge.forgecdn.net/files/8381/214/kaleidoscope_bloodwine-1.1.0.jar",
+        "https://cdn.modrinth.com/data/CrMZMaFM/versions/TooGZbwH/kaleidoscope_bloodwine-1.1.0.jar"
+      ],
+      "fileSize": 154307
     },
     {
       "path": "mods/[独特风味] peculiars-1.20.1-5.0.0.jar",
