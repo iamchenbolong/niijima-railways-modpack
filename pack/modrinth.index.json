@@ -1313,6 +1313,19 @@
       "fileSize": 1022391
     },
     {
+      "path": "mods/[森罗物语：兼容] kaleidoscope_compat-2.6.5-forge+mc1.20.1.jar",
+      "hashes": {
+        "sha1": "b059217831d8c8f16ccda3df97c5eca676e9418a",
+        "sha512": "c28e6f6531a9dca1a75aded75404823343754edcda3449752250e206144e63b4180ca0d77a7d2577987fc36dd5aa9b9359cc348528ec575bce3eb9d93528dffb"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/8462/133/kaleidoscope_compat-2.6.5-forge%2bmc1.20.1.jar",
+        "https://edge.forgecdn.net/files/8462/133/kaleidoscope_compat-2.6.5-forge%2bmc1.20.1.jar",
+        "https://cdn.modrinth.com/data/Xm1eP54z/versions/PQVSND9x/kaleidoscope_compat-2.6.5-forge%2Bmc1.20.1.jar"
+      ],
+      "fileSize": 860396
+    },
+    {
       "path": "mods/[森罗物语：末地] kaleidoscope_end-1.0.14-forge+mc1.20.1.jar",
       "hashes": {
         "sha1": "4998ecd33f97f11dbec4d256fa424502de553aa8",
